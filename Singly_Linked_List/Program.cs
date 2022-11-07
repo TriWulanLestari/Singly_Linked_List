@@ -82,7 +82,7 @@ namespace Singly_Linked_List
             previous = START;
             current = START;
             while ((current != null) && (rollNo != current.rollNumber))
-            {
+            { 
                 previous = current;
                 current = current.next;
             }
