@@ -120,7 +120,7 @@ namespace Singly_Linked_List
                 List obj = new List();
                 while (true)
                 {
-                    try
+                    try 
                     {
                         Console.WriteLine("\nMENU");
                         Console.WriteLine("1. Add a record to the list");
