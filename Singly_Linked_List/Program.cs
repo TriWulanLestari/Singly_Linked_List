@@ -92,7 +92,7 @@ namespace Singly_Linked_List
                 return true;
         }
 
-        public void Traverse()
+        public void Traverse() 
         {
             if (listEmpty())
                 Console.WriteLine("\nThe records in the list are: ");
